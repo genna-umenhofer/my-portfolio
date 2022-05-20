@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Fauna+One&display=swap');
+
+body{
+  background-image: url('https://images.unsplash.com/photo-1629196914375-f7e48f477b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=kseniya-lapteva-5syls8GxO1Q-unsplash.jpg');
+  /*width: 1vw;*/
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10%;
+}
+
+nav {
+  font-family: 'Fauna One', serif !important;
+}
+
+h1 {
+  color: orange;
+  font-family: 'Cinzel', serif !important;
+  font-size: 3rem;
+}
+
+h2 {
+  color: white !important;
+  font-family: 'Fauna One', serif !important;
+  font-size: 1.5rem;
+}
+
+h2 a{
+  color: white !important;
+  font-family: 'Fauna One', serif !important;
+}
+
+h3 {
+  color: white !important;
+  font-family: 'Cinzel', serif !important;
+  font-size: 3rem;
+}
+
+h4 {
+  color: black !important;
+  font-family: 'Fauna One', serif !important;
+}
+
+h4 a {
+  color: black !important;
+  font-family: 'Fauna One', serif !important;
+}
+
+h5 {
+  color: gray !important;
+  font-family: 'Fauna One', serif !important;
+}
+
+h6, label, input {
+  color: white !important;
+  font-family: 'Fauna One', serif !important;
+}
+
+p {
+  color: black !important;
+  font-family: 'Fauna One', serif !important;
+  font-size: 1rem;
+}
+
+.extra-space {
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
+
+.gray-background {
+  background-color: rgba(50,50,50,0.5);
+  padding: 10%;
+  margin-top: 10%;
+}
+
+nav a {
+  color: white !important;
+}
+
+nav a:hover {
+  color: orange !important;
+}
